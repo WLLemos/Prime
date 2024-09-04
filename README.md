@@ -1,0 +1,2 @@
+# primevideo
+Conhecendo react native

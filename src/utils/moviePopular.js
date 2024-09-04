@@ -1,0 +1,32 @@
+export const MOVIESPOPULAR = [
+  {
+    id: "1",
+    name: "Avatar 2: O Caminho da Água",
+    moviesURL: require("../assets/movies/avatar-o-caminho-da-agua-90x60-cm-lo004-poster-nerd.webp"),
+    description: "Jake Sully vive com sua nova família formada no planeta Pandora. Quando uma ameaça familiar retorna para terminar o que foi começado, Jake deve trabalhar com Neytiri e o exército da raça Na'vi para proteger seu planeta.",
+    duration: "3h 12min",
+    genre: "Ação, Aventura, Fantasia",
+    rating: "7.8/10",
+    cast: "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+  },
+  {
+    id: "2",
+    name: "Aladdin",
+    moviesURL: require("../assets/movies/aladdin-2019-lo01-tamanho-90x60-cm-nerd.jpg"),
+    description: "Um jovem humilde descobre uma lâmpada mágica que o faz transformar em príncipe para ganhar o coração de uma princesa.",
+    duration: "2h 8min",
+    genre: "Aventura, Comédia, Fantasia",
+    rating: "7.0/10",
+    cast: "Will Smith, Mena Massoud, Naomi Scott",
+  },
+  {
+    id: "3",
+    name: "Us",
+    moviesURL: require("../assets/movies/us.jpg"),
+    description: "Uma família em férias é aterrorizada por seus próprios doppelgängers em uma luta pela sobrevivência.",
+    duration: "1h 56min",
+    genre: "Terror, Mistério, Suspense",
+    rating: "7.3/10",
+    cast: "Lupita Nyong'o, Winston Duke, Elisabeth Moss",
+  },
+];
